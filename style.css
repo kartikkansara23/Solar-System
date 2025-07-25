@@ -15,6 +15,8 @@ body{
     top:-3em;
     
 }
+/* SUN */
+
 .sun{
     position: absolute;
     top:15em;
@@ -25,6 +27,8 @@ body{
     background-color:rgb(255, 153, 0);
     box-shadow:0 0 3em white;
 }
+
+/* MERCURY */
 
 .mercury{
     position: absolute;
@@ -55,6 +59,8 @@ body{
     background-color:#420053;
 }
 
+/* VENUS */
+
 .venus{
     position: absolute;
     border-style:solid;
@@ -83,6 +89,8 @@ body{
     width:2.85em;
     background-color:#b06a28;
 }
+
+/* EARTH AND MOON */
 
 .earth,.moon {
     position: absolute;
@@ -128,6 +136,8 @@ body{
     background-color:#cccccc;
 }
 
+/* MARS */
+
 .mars{
     position: absolute;
     border-style:solid;
@@ -156,6 +166,8 @@ body{
     width:1.6em;
     background-color:#a11800;
 }
+
+/* JUPITER */
 
 .jupiter{
     position: absolute;
@@ -186,6 +198,8 @@ body{
     background-color:#591501;
 }
 
+/* SATURN */
+
 .saturn{
     position: absolute;
     border-style:solid;
@@ -215,6 +229,7 @@ body{
     background-color:#be5c06;
 }
 
+/* ANIMATION */
 
 @keyframes orbit{
     to{
