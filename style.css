@@ -6,6 +6,7 @@ body{
     align-items: center;
     justify-content: center;
     overflow: hidden;
+     background: linear-gradient(to top, #404040, #000000);
 }
 .solarsystem{
     height:40em;
